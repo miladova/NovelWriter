@@ -1,0 +1,65 @@
+{
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Chapter One · The Net",
+      "words": 5459
+    },
+    {
+      "chapter": 2,
+      "title": "Chapter Two · The Man in Grey",
+      "words": 5116
+    },
+    {
+      "chapter": 3,
+      "title": "Chapter Three · Hoża Street",
+      "words": 5530
+    },
+    {
+      "chapter": 4,
+      "title": "Chapter Four · The Saxon Garden",
+      "words": 6621
+    },
+    {
+      "chapter": 5,
+      "title": "Chapter Five · The Card Index",
+      "words": 6312
+    },
+    {
+      "chapter": 6,
+      "title": "Chapter Six · The Courthouse",
+      "words": 5428
+    },
+    {
+      "chapter": 7,
+      "title": "Chapter Seven · The Photograph",
+      "words": 6000
+    },
+    {
+      "chapter": 8,
+      "title": "Chapter Eight · The Dead City",
+      "words": 5227
+    },
+    {
+      "chapter": 9,
+      "title": "Chapter Nine · The Notices",
+      "words": 4493
+    },
+    {
+      "chapter": 10,
+      "title": "Chapter Ten · The House of Wolves",
+      "words": 5709
+    },
+    {
+      "chapter": 11,
+      "title": "Chapter Eleven · The Tram at Szucha",
+      "words": 5573
+    },
+    {
+      "chapter": 12,
+      "title": "Chapter Twelve · The Girl in the Laundry",
+      "words": 5559
+    }
+  ],
+  "total": 67027
+}
